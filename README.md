@@ -1,17 +1,13 @@
-## My Project
+## AWS DeepRacer Environment State
 
-TODO: Fill this README out!
+The AWS DeepRacer Environment State package provides a simple interface to access "RL Lab - DeepRacer" environment state information.
+ 
+## Installation
 
-Be sure to:
+To install AWS DeepRacer Environment State package, use `pip install deepracer-env-state`.
 
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+Python 3.6, 3.7, 3.8, and 3.9 are supported on Linux, Windows, and macOS.
 
 ## License
 
 This project is licensed under the Apache-2.0 License.
-
