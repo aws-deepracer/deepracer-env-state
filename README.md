@@ -1,3 +1,5 @@
+## We have made a difficult decision of ceasing active development on this repo as of Jul 2022.
+
 ## AWS DeepRacer Environment State
 
 The AWS DeepRacer Environment State package provides a simple interface to access "RL Lab - DeepRacer" environment state information.
